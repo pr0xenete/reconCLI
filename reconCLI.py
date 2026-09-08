@@ -1,3 +1,11 @@
+# ============================================================
+# Copyright © 2026 reconCLI
+# All rights reserved.
+#
+# This code is protected by copyright law.
+# No reproduction or distribution without permission.
+# ============================================================
+
 import os
 import sys
 import socket
